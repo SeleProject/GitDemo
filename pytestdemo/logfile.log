@@ -1,0 +1,5 @@
+2024-04-22 11:59:19,499 :INFO :pytestdemo.test_loggingdemo :Information statement
+2024-04-22 11:59:19,499 :WARNING :pytestdemo.test_loggingdemo :Something is in warninig mode
+2024-04-22 11:59:19,499 :ERROR :pytestdemo.test_loggingdemo :A major error has happened
+2024-04-22 11:59:19,499 :CRITICAL :pytestdemo.test_loggingdemo :Crittical situation
+2024-04-22 15:32:11,759 :INFO : test_profile :['Emil', 'mariya', 'ns']
